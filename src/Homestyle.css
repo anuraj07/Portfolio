@@ -12,7 +12,7 @@
 .overlay {
     width: 100%;
     height: 100vh;
-    background: linear-gradient(#0082e6,#6339fc);
+    background: linear-gradient(to right, #017ad6,#6339fc);
     opacity: .8;
     position: absolute;
 }
