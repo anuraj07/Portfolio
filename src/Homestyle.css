@@ -40,16 +40,25 @@
 }
 span:before {
     content: '';
-    animation: animate infinite 8s;
+    animation: animate infinite 15s;
 }
 @keyframes animate {
     0%{
-        content: 'great';
+        content: 'Computer Science Student';
     }
-    50%{
-        content: 'sher hai baas';
+    20%{
+        content: 'Knows about C/JAVA/Python';
+    }
+    40%{
+        content: 'Knows about HTML/CSS';
+    }
+    60%{
+        content: 'Knows Android App Development';
+    }
+    80%{
+        content: 'Knows about Cyber Security';
     }
     100%{
-        content: 'Shiv bhi hai';
+        content: 'Knows about React JS';
     }
 }
