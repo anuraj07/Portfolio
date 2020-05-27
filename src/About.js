@@ -22,9 +22,9 @@ const About = () => {
                 </div>
                 <div className = "right_part">
                 <p>Hi, Welcome to my cumulative Portfolio!
-                 My name is Ashutosh Ranjan (b. Feb 1998),
+                 My name is Anuraj Deep (b. Jan 2000),
                   a native-born Bihari, grew up in 
-                  Samastipur, India and now living in 
+                  Patna, Bihar, India and now living in 
                   Bengaluru, India.</p><br></br><br></br>
 
                   <p>I'm an undergraduate furthermore pursuing 
@@ -36,11 +36,10 @@ const About = () => {
                 coding skills on HackerRank and Geeks for 
                 Geeks platforms.</p><br></br><br></br>
 
-                <p>I love watching Football and a huge fan of 
-                Cristiano Ronaldo. Real Madrid & Germany 
-                is my fav International Club & Team resp. 
+                <p>I love playing CSGO and PUBG sometimes. 
                 I use to spend my free time while writing 
-                answers on Quora. Hindi songs are my go-to
+                answers on Quora. I also write blogs in my free
+                time. Hindi songs are my go-to
                  whenever I'm alone.</p><br></br><br></br>
                  </div>
             </div>

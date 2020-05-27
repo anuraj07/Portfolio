@@ -4,7 +4,7 @@ import './Navbarstyle.css'
 const Navbar = () => {
     return (
         <nav className = "navbarstyle">
-            <label className = "logo">Portfolio</label>
+            <label className = "logo">My Devfolio</label>
             <ul>
                 <li><a href="#">Home</a></li>
                 <li><a href="#">About Me</a></li>
