@@ -6,25 +6,27 @@
     box-sizing: border-box;
 }
 nav{
+    /* background: #0082e6; */
     background: #0082e6;
+    opacity: 1.5;
     height: 80px;
     width: 100%;
 }
 label.logo {
     color: white;
-    font-size: 34px;
+    font-size: 32px;
     line-height: 80px;
     padding: 0 100px;
     font-weight: bold;
 }
 nav ul {
     float: right;
-    margin-right: 20px;
+    margin-right: 18px;
 }
 nav ul li {
     display: inline-block;
     line-height: 80px;
-    margin: 0 50px;
+    margin: 0 40px;
 }
 nav ul li a {
     color: white;

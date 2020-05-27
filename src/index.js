@@ -4,11 +4,15 @@ import './index.css';
 // import App from './App';
 import Navbar from './Navbar'
 import * as serviceWorker from './serviceWorker';
+import Home from './Home';
+import About from './About';
 
 ReactDOM.render(
   <React.StrictMode>
     {/* <App /> */}
     <Navbar/>
+    <Home/>
+    <About/>
   </React.StrictMode>,
   document.getElementById('root')
 );
