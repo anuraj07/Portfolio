@@ -16,8 +16,19 @@ const About = () => {
                 <b>Email: </b> deep.anuraj10@gmail.com<br></br><br></br>
                 <b>Phone: </b> +91 7903811835<br></br><br></br>
                 </div></div>
-
+                <div className = "container">
                 <p><b>Skills</b></p>
+                    <ul>
+                        <li className = "html">HTML/CSS</li>
+                        <li className = "react">REACT JS</li>
+                        <li className = "pyhton">PYTHON</li>
+                        <li className = "android">ANDROID APP DEVELOPMENT</li>
+                        <li className = "java">JAVA</li>
+                        <li className = "cyber">CYBER SECURITY</li>
+                    </ul>
+                </div>
+
+
 
                 </div>
                 <div className = "right_part">
